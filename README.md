@@ -42,16 +42,8 @@ Follow these steps to run the project locally.
 git clone https://github.com/fahmidamabud/Car-Rental---MERN.git
 cd Car-Rental---MERN
 
-<b>Install client dependencies</b>
-cd client
-npm install
-
-<b>Install server dependencies</b>
-cd ../server
-npm install
-
-<b>Inside the server directory, create a .env file with the following variables:</b>
-# Server configuration
+#Inside the server directory, create a .env file with the following variables:
+<b> Server configuration </b>
 PORT=5000
 
 <b> MongoDB Database Connection </b>
@@ -66,13 +58,16 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 🔹 Start the Backend
-cd client
+```bash
+cd serevr
 npm run dev
+```
 
 🔹 Start the Frontend (In a seperate terminal)
+```bash
 cd client
 npm run dev
-
+```
 ⚡ <b>Troubleshooting Tips</b>
 
 MongoDB connection error:

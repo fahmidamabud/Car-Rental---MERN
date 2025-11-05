@@ -42,15 +42,15 @@ Follow these steps to run the project locally.
 git clone https://github.com/fahmidamabud/Car-Rental---MERN.git
 cd Car-Rental---MERN
 
-<h3>Install client dependencies</h3>
+<b>Install client dependencies</b>
 cd client
 npm install
 
-<h3>Install server dependencies</h3>
+<b>Install server dependencies</b>
 cd ../server
 npm install
 
-<strong>Inside the server directory, create a .env file with the following variables:</strong>
+<b>Inside the server directory, create a .env file with the following variables:</b>
 # Server configuration
 PORT=5000
 
@@ -73,7 +73,7 @@ npm run dev
 cd client
 npm run dev
 
-⚡ <strong>Troubleshooting Tips</strong>
+⚡ <b>Troubleshooting Tips</b>
 
 MongoDB connection error:
 Make sure your MONGO_URI is valid and MongoDB is running locally or accessible via Atlas.

@@ -36,7 +36,7 @@ This project demonstrates the power of the **MERN stack** and focuses on a clean
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 
 git clone https://github.com/fahmidamabud/Car-Rental---MERN.git
@@ -54,13 +54,13 @@ npm install
 # Server configuration
 PORT=5000
 
-# MongoDB Database Connection
+<b> MongoDB Database Connection </b>
 MONGO_URI=your_mongodb_connection_string_here
 
-# JWT Secret Key
+<b> JWT Secret Key </b>
 JWT_SECRET=your_secret_key_here
 
-# (Optional) Cloudinary Config for Image Uploads
+<b> (Optional) Cloudinary Config for Image Uploads</b>
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret

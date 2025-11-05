@@ -43,16 +43,16 @@ git clone https://github.com/fahmidamabud/Car-Rental---MERN.git
 cd Car-Rental---MERN
 
 #Inside the server directory, create a .env file with the following variables:
-<b> Server configuration </b>
+<b> Server configuration </b><br/>
 PORT=5000
 
-<b> MongoDB Database Connection </b>
+<b> MongoDB Database Connection </b><br/>
 MONGO_URI=your_mongodb_connection_string_here
 
-<b> JWT Secret Key </b>
+<b> JWT Secret Key </b><br/>
 JWT_SECRET=your_secret_key_here
 
-<b> (Optional) Cloudinary Config for Image Uploads</b>
+<b> (Optional) Cloudinary Config for Image Uploads</b><br/>
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret

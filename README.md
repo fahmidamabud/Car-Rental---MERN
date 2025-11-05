@@ -38,7 +38,7 @@ Follow these steps to run the project locally.
 
 ### 1️⃣ Clone the Repository
 
-```bash
+
 git clone https://github.com/fahmidamabud/Car-Rental---MERN.git
 cd Car-Rental---MERN
 
